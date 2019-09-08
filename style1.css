@@ -1,0 +1,37 @@
+body{
+    background-image: url("webpage.png");
+}
+.button_home{
+    width: 140px;
+    height: 39px;
+    background-color: Transparent;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;   
+    margin-left: 32px;
+    margin-top: 3px;
+}
+.buttom_quad{
+    background-color: Transparent;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;  
+    width: 69px;
+    height: 65px;
+}
+.button_cal{
+    background-color: Transparent;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;  
+    width: 69px;
+    height: 65px;
+}
+.button_over{
+    background-color: Transparent;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;  
+    width: 69px;
+    height: 65px;
+}
