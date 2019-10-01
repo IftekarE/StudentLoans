@@ -1,0 +1,42 @@
+body{
+    background-image: url(WireFrame1.png);
+}
+.body{
+    width: 920px;
+    height: 902px;
+    position: absolute;
+    left: 26%;
+} 
+.right{
+    width: 500px;
+    height: 902px;
+    position: absolute;
+    left: 73.95%;
+}
+.left{
+    width: 500px;
+    height: 902px;
+    position: absolute;
+    left: 0.05%;
+}
+
+h1{
+    position: absolute;
+    left: 30%;
+}
+.cite{
+    width: 100px;
+    height: 34px;
+    background-color: Transparent;
+    border: none;
+    margin-top: 13px;
+    margin-left: 249.5px;
+}
+.home{
+    width: 100px;
+    height: 34px;
+    background-color: Transparent;
+    border: none;
+    margin-top: 13px;
+    margin-left: 20px;
+}
