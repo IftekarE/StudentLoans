@@ -1,2 +1,2 @@
-# N-A
-I dont really know what I am going to do 
+# Student Loans 
+its gonna be a website about civic issues in 2019
