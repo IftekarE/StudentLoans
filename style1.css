@@ -22,7 +22,9 @@ body{
 
 h1{
     position: absolute;
-    left: 30%;
+    margin-left: 280.5px;
+    padding-top: 75px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .cite{
     width: 100px;
@@ -41,9 +43,13 @@ h1{
     margin-left: 20px;
 }
 .article{
-    height: 902px;
+    height: 700px;
     width: 600px;
+    margin-left: 160px;
+    padding-top: 150px;
 }
 p{
     text-align: justify;
+    font-size: 18px;
+    font-family: sans-serif;
 }
