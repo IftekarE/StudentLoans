@@ -19,13 +19,6 @@ body{
     position: absolute;
     left: 0.05%;
 }
-
-h1{
-    position: absolute;
-    margin-left: 280.5px;
-    padding-top: 75px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
 .cite{
     width: 100px;
     height: 34px;
@@ -42,20 +35,29 @@ h1{
     margin-top: 13px;
     margin-left: 20px;
 }
-.article{
+h1{
+    position: absolute;
+    margin-left: 394.1px;
+    padding-top: 75px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Citations{
     height: 700px;
     width: 600px;
     margin-left: 160px;
     padding-top: 170px;
 }
-p{
-    text-align: justify;
-    font-size: 19px;
+.p1{
+    font-size: 18px;
     font-family: sans-serif;
 }
-h2{
-    position: absolute;
-    margin-left: 366.44px;
-    padding-top: 110px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+.l1{
+    font-size: 16px;
+}
+.p2{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.l2{
+    font-size: 16px;
 }
