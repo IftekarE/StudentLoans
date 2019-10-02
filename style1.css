@@ -40,3 +40,10 @@ h1{
     margin-top: 13px;
     margin-left: 20px;
 }
+.article{
+    height: 902px;
+    width: 600px;
+}
+p{
+    text-align: justify;
+}
