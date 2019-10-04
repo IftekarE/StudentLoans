@@ -1,32 +1,32 @@
-body{
+body{ /*set the background to the layout made on photoshop*/
     background-image: url(WireFrame1.png);
 }
-.body{
+.body{ /* this is for the div in the middle of the screen, i was setting the height and weight and also positioning the div*/
     width: 920px;
     height: 902px;
     position: absolute;
     left: 26%;
 } 
-.right{
+.right{ /* this is for the div in the right side of the screen, i was setting the height and weight and also positoning th ediv*/
     width: 500px;
     height: 902px;
     position: absolute;
     left: 73.95%;
 }
-.left{
+.left{ /* this is for the div in the right side of the screen, i was setting the height and weight and also positoning th ediv*/
     width: 500px;
     height: 902px;
     position: absolute;
     left: 0.05%;
 }
 
-h1{
+h1{ /* this is for the subheading i am setting the position the margin space the padding amount and the font style*/
     position: absolute;
     margin-left: 280.5px;
     padding-top: 75px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.cite{
+.cite{ /* this is for the button that is incharge of redirecting the user to the citations page, i used it to set the width the height and the color as well is position it*/
     width: 100px;
     height: 34px;
     background-color: Transparent;
@@ -34,7 +34,7 @@ h1{
     margin-top: 13px;
     margin-left: 249.5px;
 }
-.home{
+.home{ /* this is for the button that is incharge of redirecting the user to the home page, i used it to set the width the height and the color as well is position it*/
     width: 100px;
     height: 34px;
     background-color: Transparent;
@@ -42,26 +42,20 @@ h1{
     margin-top: 13px;
     margin-left: 20px;
 }
-.article{
+.article{ /*this is for the div that contains the article here i set the  width the height, as well as the positioning*/
     height: 700px;
     width: 600px;
     margin-left: 160px;
     padding-top: 170px;
 }
-p{
+p{ /*this is for the article it self i used this segmeant of code to set font size, font type and the word allignment */
     text-align: justify;
     font-size: 19px;
     font-family: sans-serif;
 }
-h2{
+h2{  /* this is for the authors name, i am setting the position the margin space the padding amount and the font style*/
     position: absolute;
     margin-left: 366.44px;
     padding-top: 110px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-.image1{
-
-}
-.image2{
-
 }

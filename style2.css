@@ -1,25 +1,25 @@
-body{
+body{ /*set the background to the layout made on photoshop*/
     background-image: url(WireFrame2.png);
 }
-.body{
+.body{ /* this is for the div in the middle of the screen, i was setting the height and weight and also positioning the div*/
     width: 920px;
     height: 902px;
     position: absolute;
     left: 26%;
 } 
-.right{
+.right{ /* this is for the div in the right side of the screen, i was setting the height and weight and also positoning th ediv*/
     width: 500px;
     height: 902px;
     position: absolute;
     left: 73.95%;
 }
-.left{
+.left{ /* this is for the div in the right side of the screen, i was setting the height and weight and also positoning th ediv*/
     width: 500px;
     height: 902px;
     position: absolute;
     left: 0.05%;
 }
-.cite{
+.cite{ /* this is for the button that is incharge of redirecting the user to the citations page, i used it to set the width the height and the color as well is position it*/
     width: 100px;
     height: 34px;
     background-color: Transparent;
@@ -27,7 +27,7 @@ body{
     margin-top: 13px;
     margin-left: 249.5px;
 }
-.home{
+.home{  /* this is for the button that is incharge of redirecting the user to the home page, i used it to set the width the height and the color as well is position it*/
     width: 100px;
     height: 34px;
     background-color: Transparent;
@@ -35,29 +35,29 @@ body{
     margin-top: 13px;
     margin-left: 20px;
 }
-h1{
+h1{  /* this is for the subheading i am setting the position the margin space the padding amount and the font style*/
     position: absolute;
     margin-left: 394.1px;
     padding-top: 75px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.Citations{
+.Citations{ /*this is for the div that contains the citations here i set the  width the height, as well as the positioning*/
     height: 700px;
     width: 600px;
     margin-left: 160px;
     padding-top: 170px;
 }
-.p1{
+.p1{ /*this is for the citaions, i used this segmeant of code to set font size, font type*/
     font-size: 18px;
     font-family: sans-serif;
 }
-.l1{
+.l1{ /*this is for the link of the citations, i set the font size*/
     font-size: 16px;
 }
-.p2{
+.p2{ /*this is for the citaions, i used this segmeant of code to set font size, font type*/
     font-size: 18px;
     font-family: sans-serif;
 }
-.l2{
+.l2{ /*this is for the link of the citations, i set the font size*/
     font-size: 16px;
 }
