@@ -1,9 +1,11 @@
 body{ /*set the background to the layout made on photoshop*/
     background-image: url(WireFrame1.png);
+    height: 1880px;
+    width: 1904px;
 }
 .body{ /* this is for the div in the middle of the screen, i was setting the height and weight and also positioning the div*/
     width: 920px;
-    height: 902px;
+    height: 1804px;
     position: absolute;
     left: 26%;
 } 
@@ -32,7 +34,7 @@ h1{ /* this is for the subheading i am setting the position the margin space the
     background-color: Transparent;
     border: none;
     margin-top: 13px;
-    margin-left: 249.5px;
+    margin-left: 259.5px;
 }
 .home{ /* this is for the button that is incharge of redirecting the user to the home page, i used it to set the width the height and the color as well is position it*/
     width: 100px;
@@ -58,4 +60,27 @@ h2{  /* this is for the authors name, i am setting the position the margin space
     margin-left: 366.44px;
     padding-top: 110px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3{ /* this is for the subheading i am setting the position the margin space the padding amount and the font style*/
+    position: absolute;
+    margin-left: 317.1px;
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 600px;
+    margin-left: 160px;
+    font-family: sans-serif;
+    font-size: 19px;
+    margin-top: 75px;
+  }
+table, th, td.chart{
+    border-collapse: collapse;
+    width: 600px;
+    margin-left: 160px;
+    font-family: sans-serif;
+    font-size: 24px;
+    margin-top: 75px;
 }
